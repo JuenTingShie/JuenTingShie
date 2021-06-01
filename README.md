@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👯 I’m looking to collaborate on [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix)
+- 👯 I’m contributing language translate to [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuenTingShie](https://github.com/JuenTingShie)
 
 - 📝 I regularly write articles on [https://sating.notelet.so/](https://sating.notelet.so/)
 
-- 📫 How to reach me **m10805506@gapps.ntust.edu.tw**
+- 📫 How to reach me **m10805506#at#gapps.ntust.edu.tw**
 
 - 📄 Know about my experiences [https://sating.notelet.so/about](https://sating.notelet.so/about)
 
