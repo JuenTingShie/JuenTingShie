@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👯 I’m contributing language translate to [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix)
+- 👯 I’m contributing language translate to:
+  - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix)
+  - [plugin.video.youtube](https://github.com/anxdpanic/plugin.video.youtube)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuenTingShie](https://github.com/JuenTingShie)
 
