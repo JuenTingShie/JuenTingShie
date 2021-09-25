@@ -8,9 +8,13 @@
 and
 <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>**Rust**</a>
 
-- 👯 I’m contributing language translate to:
-  - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix)
-  - [plugin.video.youtube](https://github.com/anxdpanic/plugin.video.youtube)
+- 👯 I’m contributing language translate to some kodi plugin repo:
+  - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix)  
+  - [plugin.video.youtube](https://github.com/anxdpanic/plugin.video.youtube)  
+  - [plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed)  
+  - [service.upnext](https://github.com/im85288/service.upnext)  
+  - [screensaver.turnoff](https://github.com/add-ons/screensaver.turnoff)  
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuenTingShie](https://github.com/JuenTingShie)
 
