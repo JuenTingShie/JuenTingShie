@@ -9,12 +9,13 @@ and
 <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>**Rust**</a>
 
 - 👯 I’m contributing language translate to some kodi plugin repo:
-  - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) [![翻譯狀態](https://kodi.weblate.cloud/widgets/kodi-add-ons-video/zh_tw/plugin-video-twitch/svg-badge.svg)](https://kodi.weblate.cloud/engage/kodi-add-ons-video/zh_tw/)  
+  - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix)  
+  - [plugin.video.twitch](https://github.com/anxdpanic/plugin.video.twitch) [![翻譯狀態](https://kodi.weblate.cloud/widgets/kodi-add-ons-video/zh_tw/plugin-video-twitch/svg-badge.svg)](https://kodi.weblate.cloud/engage/kodi-add-ons-video/zh_tw/)  
   - [plugin.video.youtube](https://github.com/anxdpanic/plugin.video.youtube) [![翻譯狀態](https://kodi.weblate.cloud/widgets/kodi-add-ons-video/zh_tw/plugin-video-youtube/svg-badge.svg)](https://kodi.weblate.cloud/engage/kodi-add-ons-video/zh_tw/)  
   - [plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) [![翻譯狀態](https://kodi.weblate.cloud/widgets/kodi-add-ons-video/zh_tw/plugin-video-tubed/svg-badge.svg)](https://kodi.weblate.cloud/engage/kodi-add-ons-video/zh_tw/)  
   - [service.upnext](https://github.com/im85288/service.upnext)   
   - [screensaver.turnoff](https://github.com/add-ons/screensaver.turnoff)  
-
+  - [![翻譯狀態](https://kodi.weblate.cloud/widgets/kodi-add-ons-video/zh_tw/287x66-black.png)](https://kodi.weblate.cloud/engage/kodi-add-ons-video/zh_tw/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuenTingShie](https://github.com/JuenTingShie)
 
