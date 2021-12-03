@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JuenTingShie</h1>
-<h3 align="center">Currently working at a fintech company at Taiwan 🇹🇼. Using .Net Framework.<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </h3>
+<h3 align="center">Currently working at a fintech company at Taiwan 🇹🇼. Develop project with .Net Framework.<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </h3>
 <h4 align="center">(2021/09/27)Finished Thesis(English Title):<br>Integration of SLAM-based Head-Mounted MR and BIM for Visualized Construction Progress Management System with Remote Collaboration<br>KeyWords: Simultaneous localization and mapping、Mixed Reality、HoloLens、Progress Management、Remote Collaboration</h4>
 <h4 align="center">(2019/09 ~ 2021/09/27)A student studying Master's degree at National Taiwan University of Science and Technology, Taiwan 🇹🇼.</h4>
 
