@@ -21,7 +21,7 @@ and
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuenTingShie](https://github.com/JuenTingShie)
 
-- 📝 I regularly write articles on [https://juentingshie.github.io/](https://juentingshie.github.io/)
+- 📝 I regularly write articles on [https://juentingshie.github.io/](https://juentingshie.github.io/), or [https://juentingshie.pages.dev/](https://juentingshie.pages.dev/)
 
 - 📫 How to reach me **m10805506#at#gapps.ntust.edu.tw**
 
